@@ -1,7 +1,5 @@
 # Night City Drive 🚗🌃
 
-# Night City Drive 🚗🌃
-
 <p align="center">
   <img src="preview.png" width="900">
 </p>
