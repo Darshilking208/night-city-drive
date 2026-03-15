@@ -1,7 +1,10 @@
 # Night City Drive 🚗🌃
 
-![Night City Drive Preview]<img width="1920" height="1080" alt="preview.png" src="preview.png" />
+# Night City Drive 🚗🌃
 
+<p align="center">
+  <img src="preview.png" width="900">
+</p>
 
 Night City Drive is a browser-based 3D driving project I built with JavaScript and Three.js. I aimed to experiment with WebGL graphics and create an interactive night city where users can drive a car and explore the scene.
 
